@@ -4,9 +4,9 @@ Gem::Specification.new do |s|
   s.version = '0.0.7'
   s.summary = 'Non-Blocking SQS library.'
   s.description = 'A simple library that leverages Event Machine to issue requests to the Amazon SQS service while blocking as little as possible'
-  s.authors = "EdgeCase <contact@edgecase.com>", "John Andrews <john@edgecase.com>", "Leon Gersing <leon@edgecase.com>"
-  s.email = "contact@edgecase.com"
-  s.homepage = "https://github.com/edgecase/sqs_async"
+  s.authors = "Neo <contact@neo.com>", "John Andrews <john@neo.com>", "Leon Gersing <leon@neo.com>"
+  s.email = "contact@neo.com"
+  s.homepage = "https://github.com/neo/sqs_async"
   s.rubyforge_project = "sqs_async"
 
   s.add_dependency 'eventmachine', '~> 1.0.0.beta.3'
