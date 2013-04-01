@@ -86,8 +86,8 @@ You get extra points for the following...
 + Any new surface area additions to the API accept the hash with the supported callbacks.
 + Default callbacks are on keys :success and :failure
 
-That's pretty much it. For all bugs/errata/whathaveyou we're using github for issues or contact us @ contact@edgecase.com
+That's pretty much it. For all bugs/errata/whathaveyou we're using github for issues or contact us @ contact@neo.com
 
 Thanks! 
 
--- Leon and John from EdgeCase
+-- Leon and John from Neo
